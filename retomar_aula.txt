@@ -1,8 +1,10 @@
-Concluir aula 05
+Concluir aula 6
 
 https://www.youtube.com/watch?v=epTuwBcfjJk&list=PLKIusnzBtaELSrEBEnXTN07siLHmX5rm3&index=5
 
 https://github.com/UsuarioMc/microblog.git
+
+https://curso-flask-microblogg.herokuapp.com/
 
 #Codido servidor local
 .\venv\Scripts\activate
