@@ -1,4 +1,4 @@
-Concluir aula 6
+Concluir aula 7
 
 https://www.youtube.com/watch?v=epTuwBcfjJk&list=PLKIusnzBtaELSrEBEnXTN07siLHmX5rm3&index=5
 
@@ -8,3 +8,6 @@ https://curso-flask-microblogg.herokuapp.com/
 
 #Codido servidor local
 .\venv\Scripts\activate
+
+#para atualizar o projeto
+flask run
